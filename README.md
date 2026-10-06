@@ -2,7 +2,7 @@
 
 ## Сайт с обученными моделями
 
-https://universe.roboflow.com
+https://universe .roboflow.com
 
 ## Клонирование репозитория (в етрминале)
 
